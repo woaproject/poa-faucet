@@ -1,4 +1,4 @@
-## Sokol POA Network faucet
+## Sokol WOA Network faucet
 
 ### Building from source
 
